@@ -14,7 +14,6 @@ struct ListNode {
     ListNode *next;
     ListNode(int x) : val(x), next(NULL) {}
 };
-
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
@@ -46,3 +45,5 @@ public:
         return node;
     }
 };
+
+// 本来想尝试将m的**改为*，但是发现更改后返回的node并没有被修改过，返回值为NULL
