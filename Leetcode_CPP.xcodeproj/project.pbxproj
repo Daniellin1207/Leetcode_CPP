@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		650A403D22AFDF6400372A73 /* 1_two_sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 650A403C22AFDF6400372A73 /* 1_two_sum.cpp */; };
 		650A403F22AFEE9B00372A73 /* 2_Add_Two_Numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 650A403E22AFEE9B00372A73 /* 2_Add_Two_Numbers.cpp */; };
+		65BD9D2922B39FDA00132B4D /* 3 Longest Substring Without Repeating Characters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65BD9D2822B39FDA00132B4D /* 3 Longest Substring Without Repeating Characters.cpp */; };
 		65EEB2BC229C39C400C66258 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65EEB2BB229C39C400C66258 /* main.cpp */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 /* Begin PBXFileReference section */
 		650A403C22AFDF6400372A73 /* 1_two_sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1_two_sum.cpp; sourceTree = "<group>"; };
 		650A403E22AFEE9B00372A73 /* 2_Add_Two_Numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2_Add_Two_Numbers.cpp; sourceTree = "<group>"; };
+		65BD9D2822B39FDA00132B4D /* 3 Longest Substring Without Repeating Characters.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3 Longest Substring Without Repeating Characters.cpp"; sourceTree = "<group>"; };
 		65EEB2B8229C39C400C66258 /* Leetcode_CPP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode_CPP; sourceTree = BUILT_PRODUCTS_DIR; };
 		65EEB2BB229C39C400C66258 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -64,6 +66,7 @@
 				65EEB2BB229C39C400C66258 /* main.cpp */,
 				650A403C22AFDF6400372A73 /* 1_two_sum.cpp */,
 				650A403E22AFEE9B00372A73 /* 2_Add_Two_Numbers.cpp */,
+				65BD9D2822B39FDA00132B4D /* 3 Longest Substring Without Repeating Characters.cpp */,
 			);
 			path = Leetcode_CPP;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65BD9D2922B39FDA00132B4D /* 3 Longest Substring Without Repeating Characters.cpp in Sources */,
 				650A403D22AFDF6400372A73 /* 1_two_sum.cpp in Sources */,
 				650A403F22AFEE9B00372A73 /* 2_Add_Two_Numbers.cpp in Sources */,
 				65EEB2BC229C39C400C66258 /* main.cpp in Sources */,
